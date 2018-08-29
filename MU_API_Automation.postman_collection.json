@@ -10,7 +10,7 @@
 		{
 			"name": "http://a29ea4c549f6611e881fa12a75262e54-2021265430.us-east-1.elb.amazonaws.com:8090/mufg/api/validateCustomerBySsn/RT052173A",
 			"request": {
-				"url": "http://a8b0c6497a5eb11e8bac90e8f85419ea-1611105698.us-east-1.elb.amazonaws.com:8090/mufg/api/validateCustomerBySsn/197882139",
+				"url": "http://mufgcustomer.xlabsdfs.com/mufg/api/validateCustomerBySsn/197882139",
 				"method": "GET",
 				"header": [],
 				"body": {},
@@ -32,7 +32,7 @@
 		{
 			"name": "http://a29ea4c549f6611e881fa12a75262e54-2021265430.us-east-1.elb.amazonaws.com:8090/mufg/api/validateCustomerBySsn/RT052173A",
 			"request": {
-				"url": "http://af16a54009f6711e881fa12a75262e54-2122551556.us-east-1.elb.amazonaws.com:8089/mufg/api/fraudcheck/ssn/VM216737V",
+				"url": "http://mufgfraudcheck.xlabsdfs.com/mufg/api/fraudcheck/ssn/VM216737V",
 				"method": "GET",
 				"header": [],
 				"body": {},
@@ -43,7 +43,7 @@
 		{
 			"name": "http://a29ea4c549f6611e881fa12a75262e54-2021265430.us-east-1.elb.amazonaws.com:8090/mufg/api/validateCustomerBySsn/RT052173A",
 			"request": {
-				"url": "http://a455e2ba59f6611e881fa12a75262e54-1438776342.us-east-1.elb.amazonaws.com:8091/mufg/api/ficoscorecheck/ssn/NK032320J",
+				"url": "http://mufgficoscore.xlabsdfs.com/mufg/api/ficoscorecheck/ssn/NK032320J",
 				"method": "GET",
 				"header": [],
 				"body": {},
@@ -54,7 +54,7 @@
 		{
 			"name": "http://a29ea4c549f6611e881fa12a75262e54-2021265430.us-east-1.elb.amazonaws.com:8090/mufg/api/validateCustomerBySsn/RT052173A",
 			"request": {
-				"url": "http://a35a05b10a6e511e8bac90e8f85419ea-1810291870.us-east-1.elb.amazonaws.com:8086/mufg/api/accountopen",
+				"url": "http://mufgaccountopen.xlabsdfs.com/mufg/api/accountopen",
 				"method": "POST",
 				"header": [
 					{
@@ -74,7 +74,7 @@
 		{
 			"name": "http://a29ea4c549f6611e881fa12a75262e54-2021265430.us-east-1.elb.amazonaws.com:8090/mufg/api/validateCustomerBySsn/RT052173A",
 			"request": {
-				"url": "http://a3acda197a5ec11e881fa12a75262e54-531426183.us-east-1.elb.amazonaws.com:8087/mufg/api/fundtransfer",
+				"url": "http://mufgfundtransfer.xlabsdfs.com/mufg/api/fundtransfer",
 				"method": "POST",
 				"header": [
 					{
