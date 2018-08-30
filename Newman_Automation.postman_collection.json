@@ -21,7 +21,7 @@
 		{
 			"name": "Duplicate Check",
 			"request": {
-				"url": "http://35.225.178.115:8010/parties/person/findBySsn/RT052173A",
+				"url": "http://35.225.178.115:8010/parties/person/findBySsn/197882139",
 				"method": "GET",
 				"header": [],
 				"body": {},
